@@ -8,4 +8,5 @@ bdate
 
 FROM bronze.erp_cust_az12
 
-
+SELECT * FROM bronze.erp_cust_az12
+--Created New branch P3 ----
